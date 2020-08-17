@@ -1,6 +1,6 @@
 /***************************************************
  * payslips - calculates & prints employee payslips
- * Sage Fremont 2020
+ * Sage Fremont 2019
 ****************************************************/
 
 #include <iostream>
